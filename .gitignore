@@ -1,1 +1,6 @@
 *.txt
+main.spec
+dist/
+origin/
+build/
+__pycache__/
